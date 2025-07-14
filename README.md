@@ -1,4 +1,4 @@
-# setup-monorepo
+# Nx Monorepo | React + TypeScript + Tailwind (optional)
 ---
 
 ````markdown
